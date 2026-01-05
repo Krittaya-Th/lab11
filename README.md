@@ -1,2 +1,2 @@
-# NAME: Krittaya Thaawon
+# NAME: Krittaya Thawon
 # STUDENT ID: 680610651
